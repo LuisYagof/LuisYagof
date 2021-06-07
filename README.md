@@ -1,10 +1,10 @@
-# 🤗 Welcome to my personal GitHub account 🤗
+# Welcome to my personal GitHub account 🤗
 
-My name is Luis Yago Fernández and I'm a 🐱‍💻 __Full Stack Developer__ 🐱‍💻
+My name is Luis Yago Fernández and I'm a 🔮 __Full Stack Developer__ 🔮
 
 ## About me
 
-I am a __Psych Major__ turned __web developer__, living and coding in Madrid, Spain ☀. I've always loved a lot of things: cats 🐈, making music 🎸, skating 🛹, good films 🎬...  and I've always been into Do-It-Yourself culture. So, during the COVID-19 pandemic, I started applying this self-teaching tendencies to learn a bit of coding.
+I am a __Psych Major__ turned __web developer__, living and coding in Madrid, Spain 🌞. I've always loved a lot of things: cats 🐈, making music 🎸, good films 🎬, computers 💻...  and I've always been into Do-It-Yourself culture. So, during the COVID-19 pandemic, I started applying this self-teaching tendencies to learn a bit of coding.
 
 As a developer I mainly work with the __MERN stack__, and, though I'm still raw, I'm very passionate about good, efficient coding and learning new technologies. It may sound reckless, but I have a good time coding 😸. I really enjoy it.
 
@@ -29,10 +29,9 @@ As a developer I mainly work with the __MERN stack__, and, though I'm still raw,
 + Testing with Cypress & Jest
 + DevOps basics w/ Docker, Kubernetes, Jenkins
 
-
 ## I want to learn...
 
-+ EVERYTHING 🔮🪐🌍🌌 haha
++ EVERYTHING 🔮🌍🌌 haha
 
 ## I'm defined by my...
 
