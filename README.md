@@ -6,7 +6,7 @@ My name is Luis Yago Fernández and I'm a 🔮 __Full Stack Developer__ 🔮
 
 I am a __Psych Major__ turned __web developer__, based in Madrid, Spain 🌞. Throughout my life I've always been into Do-It-Yourself culture. So, during the COVID-19 lockdown, I started applying this self-teaching drive to learn some JavaScript.
 
-My first roadmap was oriented around the __MERN stack__ technologies, and after that my first professional experiences were as a frontend developer working with __Angular__ and __VUE__. I'm very passionate about good, efficient coding, user-oriented interfaces and learning new technologies and I guess I'm good at finding joy while I learn.
+My first learning roadmap was oriented around the __MERN stack__ technologies, and my first professional experiences were as a frontend developer working with __Angular__ and __VUE__. I'm very passionate about good, efficient coding, user-oriented interfaces and learning new technologies and I guess I'm good at finding joy while I learn.
 
 ## I handle myself with...
 
