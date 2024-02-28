@@ -37,4 +37,4 @@ My first learning roadmap was oriented around the __MERN stack__ technologies, a
 
 🔭 My [LinkedIn](https://www.linkedin.com/in/luis-yago-fernandez/)
 
-And I almost forgot: I'm a Spanish native speaker, so we can communicate either in English or in Spanish 😄
+I'm a Spanish native speaker, so we can communicate either in English or in Spanish 😄
