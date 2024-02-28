@@ -1,50 +1,35 @@
 # Welcome to my personal GitHub account 🤗
 
-My name is Luis Yago Fernández and I'm a 🔮 __Full Stack Developer__ 🔮
+My name is Luis Yago Fernández and I'm a 🔮 __Web Developer__ 🔮
 
 ## About me
 
-I am a __Psych Major__ turned __web developer__, based in Madrid, Spain 🌞. Throughout my life I've always been into Do-It-Yourself culture. So, during the COVID-19 lockdown, I started applying this self-teaching drive to learn some JavaScript.
+I am a __Psych Major__ turned __developer__, based in Madrid, Spain 🌞. Throughout my life I've always been into Do-It-Yourself culture. So, during the 2020 lockdown, I started applying this self-teaching drive to learn some JavaScript.
 
-My first learning roadmap was oriented around the __MERN stack__ technologies, and my first professional experiences were as a frontend developer working with __Angular__ and __VUE__. I'm very passionate about good, efficient coding, user-oriented interfaces and learning new technologies and I guess I'm good at finding joy while I learn.
+My first learning roadmap was oriented around the __MERN stack__ technologies, and my first professional experiences were as a JavaScript frontend developer working with __Vue__, __React__ and __Angular__. I'm an enthusiast of elegant code, putting love into the details and keeping up with the state of the art of the JavaScript ecosystem; and I guess I'm good at finding joy while I learn.
 
-## I handle myself with...
+## I have worked with...
 
 + JavaScript
 + TypeScript
-+ VUE
++ VUE and Vite
 + Angular
 + React
-+ HTML5 & CSS3
-+ SASS / SCSS / PostCSS
-+ Testing with Cypress & Jest
-+ Vite / Webpack
-+ Version-Control w/ GIT & GitHub & GitLab
-+ Azure & Jira for task planning and traceability
++ NextJS
++ Nuxt
++ Svelte and SvelteKit
++ HTML, CSS, SASS, PostCSS
++ I've tested my apps with Cypress, Jest, Vitest, Playwright
++ Git, GitHub, GitLab
++ Azure & Jira
 
 ## I know the basics...
 
 + Node
 + ExpressJs
-+ NoSQL (MongoDB & Mongoose)
-+ SQL (MySQL)
-+ Firebase (Realtime Database)
-+ REST architecture & RESTful APIs
-+ Linux environment
-
-## I want to learn...
-
-+ EVERYTHING 🔮🌍🌌 haha
-
-## I'm defined by my...
-
-+ Organization
-+ Detail-orientation
-+ Learning autonomy
-+ Ability to work under pressure
-+ Communication skills
-+ Flexibility
-+ Teamwork abilities
++ SQL databases
++ NoSQL databases (MongoDB)
++ Kotlin
 
 ## If you want to get in touch...
 
