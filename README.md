@@ -35,6 +35,6 @@ My first learning roadmap was oriented around the __MERN stack__ technologies, a
 
 📩 My email: luisyagofdez@gmail.com
 
-🔭 My [LinkedIn](https://www.linkedin.com/in/luis-yago-fernandez/)
+🔭 My [LinkedIn](https://www.linkedin.com/in/luis-yago-fernandez/?locale=en_US) (and [in spanish](https://www.linkedin.com/in/luis-yago-fernandez/))
 
 I'm a Spanish native speaker, so we can communicate either in English or in Spanish 😄
